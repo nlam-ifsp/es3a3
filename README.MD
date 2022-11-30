@@ -17,11 +17,11 @@ Participante(s):
 N. Lucas | 3070051
 
 Estrutura de pastas:
-    -> DESIGNPATTERN_TYPE
-        -> DESIGNPATTERN_NAME
-	    -> about.txt 
-            -> ClassDiagram
-            -> SequenceDiagram
-            -> example
-                -> App.java (test case + indicacao de onde este pattern eh utilizado)
-                -> (Other files)
+-> DESIGNPATTERN_TYPE
+ -> DESIGNPATTERN_NAME
+   -> about.txt 
+   -> ClassDiagram
+   -> SequenceDiagram
+   -> example
+     -> App.java (test case + indicacao de onde este pattern eh utilizado)
+     -> (Other files)
